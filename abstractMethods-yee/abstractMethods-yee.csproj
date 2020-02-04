@@ -6,4 +6,8 @@
     <RootNamespace>abstractMethods_yee</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\Enums\" />
+  </ItemGroup>
+
 </Project>
